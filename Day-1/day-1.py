@@ -72,6 +72,6 @@ print(completeName)
 completeName = f"User name is: {name} {lastName}"
 print(completeName)
 
-# print(name + " " + lastName)
+print(name + " " + lastName)
 # print("User name is:", name, lastName)
 # print(completeName)
