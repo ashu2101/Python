@@ -75,3 +75,12 @@ print(completeName)
 print(name + " " + lastName)
 # print("User name is:", name, lastName)
 # print(completeName)
+
+print("4 - ", 4*4)
+print("4 - " + str(4*4))
+print(f'4 - {4*4}')
+print(4,"-",4*4)
+
+# num_1 = 20
+# num_2 = "5"
+# print(f"{num_1} \n {num_2}")
