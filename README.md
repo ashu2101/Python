@@ -2,9 +2,10 @@
 
 **Refrence Docs:**
 - https://developers.google.com/edu/python/
-- 
+  
 Practice Python here:
 - https://www.hackerrank.com/domains/python
+- https://pychallenger.com/python-basics/
 - https://www.guvi.in/code-kata/
 - https://www.codechef.com/practice/python
 - https://www.learnpython.org/
